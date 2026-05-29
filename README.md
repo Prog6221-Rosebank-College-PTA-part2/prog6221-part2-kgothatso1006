@@ -1,6 +1,6 @@
 
 ## Class Descriptions
-
+ 
 | Class | File | Responsibility |
 |-------|------|----------------|
 | Program | Program.cs | Entry point - starts the application |
