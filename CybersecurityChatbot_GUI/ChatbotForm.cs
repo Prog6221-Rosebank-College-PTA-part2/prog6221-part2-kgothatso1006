@@ -7,7 +7,7 @@ using Timer = System.Windows.Forms.Timer;
 
 namespace CybersecurityAwarenessBot
 {
-    public partial class ChatbotForm : Form
+    public partial class ChatbotForm : Form 
     {
         private ChatbotEngine chatbotEngine;
         private UserMemory userMemory;
