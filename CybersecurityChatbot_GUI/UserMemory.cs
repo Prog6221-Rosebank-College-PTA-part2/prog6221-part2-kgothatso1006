@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 namespace CybersecurityAwarenessBot
-{
+{ 
     public class UserMemory
     {
         private Dictionary<string, string> userData;
